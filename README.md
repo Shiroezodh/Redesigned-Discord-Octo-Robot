@@ -1,1 +1,2 @@
-# Redesigned-Discord-Octo-Robot
+#  Coletor da guilda sendo atacado.
+#  Bom dia, Guilda :D
